@@ -1,0 +1,17 @@
+.container{
+    color: aliceblue;
+}
+.history  h1{ 
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-top: 2%;
+}
+.history  p{ 
+    color: black;
+    font-size: 25px;
+}
+.history  p.val{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
